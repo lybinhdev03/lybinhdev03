@@ -1,8 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+My name is Ly Binh. I am an Web Developer.<br>
 ## 📫 How to reach me: 
 
-[![Facebook](https://i.stack.imgur.com/gVE0j.png) Facebook]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.facebook.com/profile.php?id=100040954911335)) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube][https://www.youtube.com/@lybinhdev]
+[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube][https://www.youtube.com/@lybinhdev]
 
 
 
